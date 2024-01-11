@@ -136,3 +136,136 @@ Date,Month,Description,Amount,Category,Account Name
 6/27/2018,JUNE,Restaurant,3.5,Food,Silver Card
 6/27/2018,JUNE,Restaurant,22.66,Food,Platinum Card
 6/28/2018,JUNE,Grocery Store,7.57,Shopping,Silver Card
+7/1/2018,JULY,Amazon,13.13,Shopping,Platinum Card
+7/2/2018,JULY,Mortgage Payment,1247.44,Mortgage & Rent,Checking
+7/2/2018,JULY,Restaurant,36.44,Food,Silver Card
+7/4/2018,JULY,Shell,34.48,Gas & Fuel,Silver Card
+7/5/2018,JULY,Grocery Store,44.25,Shopping,Silver Card
+7/5/2018,JULY,Amazon,212.32,Shopping,Platinum Card
+7/10/2018,JULY,Grocery Store,5.39,Shopping,Silver Card
+7/10/2018,JULY,Gas Company,30,Utilities,Checking
+7/14/2018,JULY,Shell,33.51,Gas & Fuel,Silver Card
+7/15/2018,JULY,Shell,36.24,Gas & Fuel,Platinum Card
+7/17/2018,JULY,Restaurant,15.23,Food,Silver Card
+7/17/2018,JULY,City Water Charges,35,Utilities,Checking
+7/17/2018,JULY,Power Company,60,Utilities,Checking
+7/21/2018,JULY,Grocery Store,28.93,Shopping,Platinum Card
+7/23/2018,JULY,Restaurant,9.58, Food,Platinum Card
+7/24/2018,JULY,Restaurant,26.59,Food,Platinum Card
+7/26/2018,JULY,Shell,33.67,Gas & Fuel,Silver Card
+7/28/2018,JULY,Grocery Store,7.61,Shopping,Silver Card
+7/30/2018,JULY,Restaurant,34.38,Food,Silver Card
+8/1/2018,AUGUST,Amazon,13.13,Shopping,Platinum Card
+8/2/2018,AUGUST,Shell,40.44,Gas & Fuel,Silver Card
+8/2/2018,AUGUST,Mortgage Payment,1247.44,Mortgage & Rent,Checking
+8/3/2018,AUGUST,Grocery Store,6.27,Shopping,Silver Card
+8/6/2018,AUGUST,Amazon,76.47,Shopping,Platinum Card
+8/9/2018,AUGUST,Gas Company,30,Utilities,Checking
+8/11/2018,AUGUST,Restaurant,13.67, Food,Platinum Card
+8/11/2018,AUGUST,Shell,33.66,Gas & Fuel,Platinum Card
+8/15/2018,AUGUST,Shell,41.07,Gas & Fuel,Platinum Card
+8/15/2018,AUGUST,Grocery Store,5.64,Shopping,Platinum Card
+8/15/2018,AUGUST,Power Company,60,Utilities,Checking
+8/16/2018,AUGUST,City Water Charges,35,Utilities,Checking
+8/17/2018,AUGUST,Amazon,14.98,Shopping,Platinum Card
+8/18/2018,AUGUST,Amazon,23.47,Shopping,Platinum Card
+8/24/2018,AUGUST,Restaurant,42.31,Food,Platinum Card
+8/30/2018,AUGUST,Shell,35.65,Gas & Fuel,Platinum Card
+8/31/2018,AUGUST,Grocery Store,11.64,Shopping,Platinum Card
+9/1/2018,SEPTEMBER,Amazon,13.13,Shopping,Platinum Card
+9/2/2018,SEPTEMBER,Amazon,109.83,Shopping,Platinum Card
+9/4/2018,SEPTEMBER,Mortgage Payment,1247.44,Mortgage & Rent,Checking
+9/7/2018,SEPTEMBER,Gas Company,30,Utilities,Checking
+9/11/2018,SEPTEMBER,Shell,38.86,Gas & Fuel,Platinum Card
+9/11/2018,SEPTEMBER,Grocery Store,7.87,Shopping,Platinum Card
+9/12/2018,SEPTEMBER,Grocery Store,47.16,Shopping,Platinum Card
+9/13/2018,SEPTEMBER,Grocery Store,5.64,Shopping,Platinum Card
+9/17/2018,SEPTEMBER,Grocery Store,10.17,Shopping,Platinum Card
+9/17/2018,SEPTEMBER,Grocery Store,8.8,Shopping,Platinum Card
+9/17/2018,SEPTEMBER,City Water Charges,35,Utilities,Checking
+9/18/2018,SEPTEMBER,Grocery Store,4.32,Shopping,Platinum Card
+9/18/2018,SEPTEMBER,Power Company,60,Utilities,Checking
+9/20/2018,SEPTEMBER,Amazon,47.38,Shopping,Platinum Card
+9/25/2018,SEPTEMBER,Restaurant,48.64,Food,Silver Card
+9/26/2018,SEPTEMBER,Restaurant,5,Food,Platinum Card
+9/26/2018,SEPTEMBER,Shell,38,Gas & Fuel,Silver Card
+9/27/2018,SEPTEMBER,Shell,40.71,Gas & Fuel,Platinum Card
+9/28/2018,SEPTEMBER,Grocery Store,13.36,Shopping,Platinum Card
+9/29/2018,SEPTEMBER,Restaurant,23.26,Food,Platinum Card
+9/29/2018,SEPTEMBER,Restaurant,46.7,Food,Platinum Card
+10/1/2018,OCTOBER,Restaurant,3,Food,Platinum Card
+10/1/2018,OCTOBER,Grocery Store,15.66,Shopping,Platinum Card
+10/1/2018,OCTOBER,Amazon,13.13,Shopping,Platinum Card
+10/2/2018,OCTOBER,Mortgage Payment,1209.18,Mortgage & Rent,Checking
+10/6/2018,OCTOBER,Restaurant,27,Food,Silver Card
+10/8/2018,OCTOBER,Shell,38.06,Gas & Fuel,Silver Card
+10/9/2018,OCTOBER,Amazon,19.98,Shopping,Platinum Card
+10/9/2018,OCTOBER,Gas Company,30,Utilities,Checking
+10/10/2018,OCTOBER,Grocery Store,53.68,Shopping,Silver Card
+10/16/2018,OCTOBER,Power Company,60,Utilities,Checking
+10/17/2018,OCTOBER,City Water Charges,35,Utilities,Checking
+10/18/2018,OCTOBER,Grocery Store,33.55,Shopping,Platinum Card
+10/18/2018,OCTOBER,Restaurant,8,Food,Platinum Card
+10/22/2018,OCTOBER,Shell,34.66,Gas & Fuel,Platinum Card
+10/23/2018,OCTOBER,Grocery Store,7.57,Shopping,Platinum Card
+10/25/2018,OCTOBER,Amazon,29.98,Shopping,Platinum Card
+10/27/2018,OCTOBER,Restaurant,25.4,Food,Silver Card
+10/28/2018,OCTOBER,Restaurant,14.75,Food,Platinum Card
+10/28/2018,OCTOBER,Grocery Store,92.49,Shopping,Platinum Card
+10/28/2018,OCTOBER,Restaurant,54,Food,Platinum Card
+10/31/2018,OCTOBER,Grocery Store,5.64,Shopping,Platinum Card
+11/1/2018,NOVEMBER,Amazon,13.13,Shopping,Platinum Card
+11/2/2018,NOVEMBER,Mortgage Payment,1209.18,Mortgage & Rent,Checking
+11/3/2018,NOVEMBER,Restaurant,23.66,Food,Platinum Card
+11/5/2018,NOVEMBER,Shell,36.51,Gas & Fuel,Platinum Card
+11/6/2018,NOVEMBER,Amazon,53.95,Shopping,Platinum Card
+11/6/2018,NOVEMBER,Gas Company,30,Utilities,Checking
+11/8/2018,NOVEMBER,Grocery Store,5.64,Shopping,Platinum Card
+11/10/2018,NOVEMBER,Restaurant,14.19,Food,Platinum Card
+11/10/2018,NOVEMBER,Amazon,24.4,Shopping,Platinum Card
+11/12/2018,NOVEMBER,Grocery Store,10.18,Shopping,Platinum Card
+11/12/2018,NOVEMBER,Restaurant,22.33,Food,Silver Card
+11/13/2018,NOVEMBER,Grocery Store,4.8,Shopping,Platinum Card
+11/13/2018,NOVEMBER,Grocery Store,37.43,Shopping,Platinum Card
+11/13/2018,NOVEMBER,Grocery Store,10.15,Shopping,Platinum Card
+11/14/2018,NOVEMBER,Power Company,60,Utilities,Checking
+11/16/2018,NOVEMBER,City Water Charges,35,Utilities,Checking
+11/17/2018,NOVEMBER,Restaurant,23.26,Food,Platinum Card
+11/19/2018,NOVEMBER,Shell,29.15,Gas & Fuel,Silver Card
+11/21/2018,NOVEMBER,Grocery Store,5.64,Shopping,Silver Card
+11/27/2018,NOVEMBER,Restaurant,28.4,Food,Silver Card
+11/30/2018,NOVEMBER,Grocery Store,6.27,Shopping,Silver Card
+12/1/2018,DECEMBER,Grocery Store,5.64,Shopping,Silver Card
+12/1/2018,DECEMBER,Restaurant,8,Food,Silver Card
+12/1/2018,DECEMBER,Amazon,13.13,Shopping,Platinum Card
+12/3/2018,DECEMBER,Shell,30.03,Gas & Fuel,Silver Card
+12/3/2018,DECEMBER,Grocery Store,148.15,Shopping,Silver Card
+12/3/2018,DECEMBER,Mortgage Payment,1209.18,Mortgage & Rent,Checking
+12/4/2018,DECEMBER,Restaurant,3,Food,Silver Card
+12/4/2018,DECEMBER,Restaurant,20.65,Food,Platinum Card
+12/6/2018,DECEMBER,Grocery Store,21.38,Shopping,Platinum Card
+12/6/2018,DECEMBER,Grocery Store,13.48,Shopping,Platinum Card
+12/6/2018,DECEMBER,Gas Company,40,Utilities,Checking
+12/8/2018,DECEMBER,Grocery Store,12.64,Shopping,Platinum Card
+12/11/2018,DECEMBER,Restaurant,10.29,Food,Platinum Card
+12/13/2018,DECEMBER,Restaurant,27,Food,Silver Card
+12/14/2018,DECEMBER,Grocery Store,21.39,Shopping,Silver Card
+12/14/2018,DECEMBER,Power Company,60,Utilities,Checking
+12/17/2018,DECEMBER,Restaurant,63,Food,Silver Card
+12/17/2018,DECEMBER,Shell,20.01,Gas & Fuel,Silver Card
+12/17/2018,DECEMBER,City Water Charges,35,Utilities,Checking
+12/18/2018,DECEMBER,Restaurant,3,Food,Silver Card
+12/18/2018,DECEMBER,Restaurant,56.52,Food,Silver Card
+12/18/2018,DECEMBER,Amazon,49.99,Shopping,Platinum Card
+12/18/2018,DECEMBER,Amazon,41.72,Shopping,Platinum Card
+12/18/2018,DECEMBER,Amazon,24.3,Shopping,Platinum Card
+12/19/2018,DECEMBER,Amazon,43.01,Shopping,Platinum Card
+12/20/2018,DECEMBER,Shell,30.38,Gas & Fuel,Silver Card
+12/22/2018,DECEMBER,Restaurant,21.38,Food,Platinum Card
+12/26/2018,DECEMBER,Restaurant,56.07,Food,Platinum Card
+12/26/2018,DECEMBER,Shell,32.47,Gas & Fuel,Platinum Card
+12/26/2018,DECEMBER,Shell,7.48,Gas & Fuel,Platinum Card
+12/26/2018,DECEMBER,Amazon,44.99,Shopping,Platinum Card
+12/28/2018,DECEMBER,Restaurant,12,Food,Silver Card
+12/29/2018,DECEMBER,Restaurant,14,Food,Silver Card
+12/29/2018,DECEMBER,Grocery Store,55.04,Shopping,Silver Card
