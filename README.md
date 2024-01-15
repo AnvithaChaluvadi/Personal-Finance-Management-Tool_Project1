@@ -31,3 +31,7 @@ Change category column to unassigned
 
 ## Perform Quantitative Analysis
 Analyze the data to determine what month or category he spent more and to know if he spent right the whole year. Specifically, you will do a analysis by calculating the total amount spent for each category and month.
+
+<p align="center">
+<img src = Images/WholeSummaryDashboard.gif width =60% height 30%=/>
+</p>
