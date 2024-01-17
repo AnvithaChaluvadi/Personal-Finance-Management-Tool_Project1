@@ -1,20 +1,16 @@
 #### Project 1: Personal Finance Management Tool
 ##### Anvitha Chaluvadi, Maria Notarianni, Owura Fosuhene Akosah
 
+# **<center><ins>Debt-Defying Budget Buddy</ins></center>**
+
 ## Background
+Streamlining the budgeting process through automation allows users to swiftly identify their spending patterns, optimize income, and gauge their financial well-being in comparison to the national average.
 
-Welcome to the world of programming with Pandas. It's time to put away the Excel sheet and join the big leagues. 
 
-## What You’re Creating
+## What We’re Creating
 
-You need to create a tool  that analyzes and visualizes expenses made last year and determine which month, category of transactions he spent more and to track his expenses and to know if he spent right the whole year.Once you understand how you spent your money last year, you will be better equipped to set goals for the future.
+We are creating a tool that analyzes and visualizes expenses made last year and determines which month, category of transactions he spent more and to track his expenses and to know if he spent right the whole year. Once the user understands how they spent their money last year, they will be better equipped to set goals for the future.
 
-## Before You Begin
-
-Create a new GitHub repo called personal_finance_management_tool. Then, clone it to your computer.
-In your local Git repository, create a directory for the Python activities. Name the folder finance_tool.ipynb
- Remember to use JupyterLab to correctly generate the .ipynb file format. 
-Push these changes to the repository that you created in Step 1.
 
 ## Instructions
 The instructions for this assignment are divided into three parts:
