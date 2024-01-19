@@ -32,8 +32,8 @@ We presented data and graphs for the following code:
 ## Confirming User Satisfaction
  
  We asked the user this questions:
- * Are you satisfied with what your spending has been like? (yes/no): No
-  Then, Let's proceed with the need for help with budgeting.
+ * Are you satisfied with your spending? (yes/no): No
+ * In that case, let's proceed with addressing your need for help with budgeting.
 
 ## Summary Dashboard
 
