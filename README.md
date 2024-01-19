@@ -11,7 +11,7 @@ Streamlining the budgeting process through automation allows users to swiftly id
 
 We are creating a tool that analyzes and visualizes expenses made last year and determines which month, category of transactions he spent more and to track his expenses and to know if he spent right the whole year. Once the user understands how they spent their money last year, they will be better equipped to set goals for the future.
 
-## Prepare the Data
+## Prepared the Data
 
 First, we read and clean the CSV file for our analysis. The CSV file contains data on numerous expenses from last year. Use the personal transaction data to complete the following steps:
 
@@ -20,7 +20,7 @@ First, we read and clean the CSV file for our analysis. The CSV file contains da
 * Remove the extra column 'description.'
 * Change the category column to 'unassigned.'
 
-## Perform Quantitative Analysis
+## Performed Quantitative Analysis
 We analyzed the data to determine what month or category the user spent more and to know if they spent right the whole year. Specifically, we will do a analysis by calculating the total amount spent for each category and month.
 
 We presented data and graphs for the following code: 
